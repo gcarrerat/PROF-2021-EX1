@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="979cfe73-ff7f-478d-897d-6355f0779532" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/es/upm/grise/profundizacion/control_1/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/es/upm/grise/profundizacion/control_1/LibraryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634828955191</updated>
-      <workItem from="1634828956516" duration="2061000" />
+      <workItem from="1634828956516" duration="2273000" />
     </task>
     <servers />
   </component>
@@ -97,7 +95,7 @@
     <SUITE FILE_PATH="coverage/PROF_2021_EX1$LibraryTest_libraryCheckIfBookisRemoved.ic" NAME="LibraryTest.libraryCheckIfBookisRemoved Coverage Results" MODIFIED="1634830763246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.upm.grise.profundizacion.control_1.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/PROF_2021_EX1$LibraryTest.ic" NAME="LibraryTest Coverage Results" MODIFIED="1634831111817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/PROF_2021_EX1$LibraryTest.ic" NAME="LibraryTest Coverage Results" MODIFIED="1634831256180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.upm.grise.profundizacion.control_1.*</FILTER>
     </SUITE>
   </component>
