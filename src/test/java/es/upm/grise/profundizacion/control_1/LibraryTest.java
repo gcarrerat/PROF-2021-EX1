@@ -104,11 +104,15 @@ public class LibraryTest {
 		assertThrows(EmptyLibraryException.class, () -> c.getBook("Oliver Twist").getTitle());
 	}
 
+	@AfterEach
+	public void tearDown(TestInfo testInfo) {
+		System.out.println("Finished..." + testInfo.getDisplayName());
+	}
 
-
-
-
-
+	@AfterAll
+	static public void closeConvertInt(){
+		System.out.println("Finished LibraryTests tests");
+	}
 
 
 }
