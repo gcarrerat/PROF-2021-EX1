@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="979cfe73-ff7f-478d-897d-6355f0779532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/es/upm/grise/profundizacion/control_1/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/es/upm/grise/profundizacion/control_1/LibraryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +28,38 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LibraryTest">
+    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="control-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.upm.grise.profundizacion.control_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.upm.grise.profundizacion.control_1" />
+      <option name="MAIN_CLASS_NAME" value="es.upm.grise.profundizacion.control_1.LibraryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.libraryCheckIfBookisRemoved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="control-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.upm.grise.profundizacion.control_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.upm.grise.profundizacion.control_1" />
+      <option name="MAIN_CLASS_NAME" value="es.upm.grise.profundizacion.control_1.LibraryTest" />
+      <option name="METHOD_NAME" value="libraryCheckIfBookisRemoved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,6 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LibraryTest" />
+        <item itemvalue="JUnit.LibraryTest.libraryCheckIfBookisRemoved" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,11 +86,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634828955191</updated>
-      <workItem from="1634828956516" duration="75000" />
+      <workItem from="1634828956516" duration="2061000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PROF_2021_EX1$LibraryTest_libraryCheckIfBookisRemoved.ic" NAME="LibraryTest.libraryCheckIfBookisRemoved Coverage Results" MODIFIED="1634830763246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.upm.grise.profundizacion.control_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PROF_2021_EX1$LibraryTest.ic" NAME="LibraryTest Coverage Results" MODIFIED="1634831111817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.upm.grise.profundizacion.control_1.*</FILTER>
+    </SUITE>
   </component>
 </project>
